@@ -1,0 +1,117 @@
+{
+  "uz": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "contact": "Aloqa",
+    "login": "Kirish",
+    "signup": "Ro‘yxatdan o‘tish",
+
+    "language": {
+      "uz": "O‘zbek",
+      "ru": "Ruscha",
+      "en": "Inglizcha"
+    },
+    "hero": {
+      "title": "Biz bilan albatta",
+      "title-yellow": "talaba bo'lasiz",
+      "subtitle": "Mexmonxonov o‘quv markazi — zamonaviy videodarslar, aniq yo‘nalish va ishonchli natija.",
+      "start": "Boshlash",
+      "kurs": "Kurslar"
+    },
+
+    "lead": {
+      "title": "Bepul maslahat olish",
+      "subtitle": "Fan yo‘nalishini tanlang va biz siz bilan bog‘lanamiz",
+      "subject": "Fan yo‘nalishi",
+      "name": "Ismingiz",
+      "phone": "Telefon raqamingiz",
+      "button": "Bog‘lanamiz",
+      "success": "Rahmat! Tez orada siz bilan bog‘lanamiz."
+    },
+
+    "subjects": {
+      "math": "Matematika",
+      "chemistry": "Kimyo",
+      "biology": "Biologiya",
+      "it": "IT"
+    }
+  },
+
+  "ru": {
+    "home": "Главная",
+    "about": "О нас",
+    "services": "Услуги",
+    "contact": "Контакты",
+    "login": "Вход",
+    "signup": "Регистрация",
+
+    "language": {
+      "uz": "Узбекский",
+      "ru": "Русский",
+      "en": "Английский"
+    },
+    "hero": {
+      "title": "С нами вы обязательно",
+      "title-yellow": "станете студентом",
+      "subtitle": "Учебный центр Мехмонхонов — современные видеокурсы, четкое направление и надежный результат.",
+      "start": "Начать",
+      "kurs": "Курсы"
+    },
+
+    "lead": {
+      "title": "Бесплатная консультация",
+      "subtitle": "Выберите направление и мы свяжемся с вами",
+      "subject": "Направление",
+      "name": "Ваше имя",
+      "phone": "Номер телефона",
+      "button": "Связаться",
+      "success": "Спасибо! Мы скоро свяжемся с вами."
+    },
+
+    "subjects": {
+      "math": "Математика",
+      "chemistry": "Химия",
+      "biology": "Биология",
+      "it": "IT"
+    }
+  },
+
+  "en": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+
+    "language": {
+      "uz": "Uzbek",
+      "ru": "Russian",
+      "en": "English"
+    },
+    "hero": {
+      "title": "With us you will definitely",
+      "title-yellow": "become a student",
+      "subtitle": "Mexmonxonov Training Center - modern video lessons, a clear direction and reliable results.",
+      "start": "Get Started",
+      "kurs": "Courses"
+    },
+    "lead": {
+      "title": "Free consultation",
+      "subtitle": "Choose a subject and we will contact you",
+      "subject": "Subject",
+      "name": "Your name",
+      "phone": "Phone number",
+      "button": "Contact me",
+      "success": "Thank you! We will contact you soon."
+    },
+
+    "subjects": {
+      "math": "Mathematics",
+      "chemistry": "Chemistry",
+      "biology": "Biology",
+      "it": "IT"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jump Box</title>
+  <style>
+    body {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .box {
+      width: 200px;
+      height: 200px;
+      background: red;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box"></div>
+
+  <script>
+    const box = document.querySelector(".box");
+
+    let x = 0;
+    let direction = 1; // 1 = tepaga, -1 = pastga
+    const maxHeight = 150;
+
+    function animate() {
+      x += 2 * direction;
+      box.style.transform = `translateY(${-x}px)`;
+      
+      if (x >= maxHeight) {
+        direction = -1;
+      }
+
+      if (x <= 0) {
+        direction = 1;
+      }
+
+      requestAnimationFrame(animate);
+    }
+
+    animate();
+  </script>
+
+</body>
+</html>
